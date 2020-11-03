@@ -2,6 +2,7 @@
 $lang['payment'] = "Make a Payment";
 $lang['refresh'] = "Refresh";
 $lang['Switch'] = "Switch Accounts";
+$lang['Timezone'] = "Timezone";
 $lang['You'] = "You";
 $lang['SBB'] = "Ship By BoxC";
 $lang['FBB'] = "Fulfillment By BoxC";

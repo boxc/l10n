@@ -1,11 +1,11 @@
 <?php
-$lang['order_q1'] = "What do the different order statuses mean?";
-$lang['Updatable'] = "Updatable";
-$lang['order_a1'] = "All line items in the order were fulfilled.";
-$lang['order_a2'] = "Some of the line items were fulfilled with the remaining to be fulfilled when inventory or funds are added.";
-$lang['order_a3'] = "The order is in the process of being picked and packed.";
-$lang['order_a4'] = "The order is waiting to be packed.";
-$lang['order_a5'] = "The order is waiting to be processed by the system. This is the default state.";
-$lang['order_a6'] = "The order is being held by the customer and won't be processed.";
-$lang['order_a7'] = "There is a problem with the shipping address and it must be corrected by the customer.";
-$lang['order_a8'] = "There is insufficient inventory for one or more line items, or the customer must add more funds to their account balance.";
+$lang['order_q1'] = "Что означают разные статусы заказа?";
+$lang['Updatable'] = "Обновляемый";
+$lang['order_a1'] = "Все позиции заказа были выполнены.";
+$lang['order_a2'] = "Некоторые позиции были выполнены, а оставшиеся должны быть выполнены при добавлении товара или средств.";
+$lang['order_a3'] = "Заказ находится в процессе комплектации и упаковки.";
+$lang['order_a4'] = "Заказ ожидает упаковки";
+$lang['order_a5'] = "Заказ ожидает обработки в системе. Это состояние по умолчанию.";
+$lang['order_a6'] = "Заказ находится у клиента и не будет обработан.";
+$lang['order_a7'] = "Возникла проблема с адресом доставки, и должна быть исправлена заказчиком.";
+$lang['order_a8'] = "Недостаточно товаров для одной или нескольких позиций, или клиент должен добавить дополнительные средства на баланс своего счета.";

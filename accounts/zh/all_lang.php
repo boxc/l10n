@@ -2,6 +2,7 @@
 $lang['payment'] = "付款";
 $lang['refresh'] = "刷新";
 $lang['Switch'] = "切换用户";
+$lang['Timezone'] = "时区";
 $lang['You'] = "你";
 $lang['SBB'] = "BoxC运送务";
 $lang['FBB'] = "BoxC仓储服务";
